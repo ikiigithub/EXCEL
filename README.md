@@ -1,3 +1,2 @@
 # EXCEL
-hello world
-SMKN 1 Subang
+Tugas ekstrakulikuler IT Club
